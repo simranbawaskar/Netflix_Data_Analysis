@@ -1,1 +1,1 @@
-Analysed netflix movies data using quesries on MS SQL SERVER
+Analysed netflix movies data using queries on MS SQL SERVER
